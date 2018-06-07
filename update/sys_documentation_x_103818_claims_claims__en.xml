@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Claims" language="en" table="x_103818_claims_claims">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Claims</label>
+            <language>en</language>
+            <name>x_103818_claims_claims</name>
+            <plural>Claims</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-07 06:27:01</sys_created_on>
+            <sys_id>2e6342254faed78059677bb28110c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Claims</sys_name>
+            <sys_package display_value="Claims" source="x_103818_claims">f06fb16d4f6ad78059677bb28110c7b1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Claims">f06fb16d4f6ad78059677bb28110c7b1</sys_scope>
+            <sys_update_name>sys_documentation_x_103818_claims_claims__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-07 06:27:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
